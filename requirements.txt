@@ -1,3 +1,4 @@
 ipywidgets==7.6.4
 ipython==7.27.0
 voila==0.2.12
+widgetsnbextension==3.5.1
